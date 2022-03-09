@@ -21,6 +21,6 @@
 		</form>
 	</div>
 	<script src="verification.js"></script>
-	<script src="jquery-3.2.1.min.js" type="text/javascript"></script>
+	
 </body>
 </html>
